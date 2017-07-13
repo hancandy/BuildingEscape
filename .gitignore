@@ -7,6 +7,8 @@ Content/StarterContent/HDRI
 
 # Visual Studio 2015 database file
 *.VC.db
+*.VC.opendb
+*.sln
 
 # Compiled Object files
 *.slo
